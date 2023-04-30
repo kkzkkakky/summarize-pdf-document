@@ -1,1 +1,1 @@
-# summarize-pdf-document
+# 指定したのPDFに関して詳しくなったAIと，対話形式で爆速で学習しよう
